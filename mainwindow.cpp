@@ -1,9 +1,7 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include <QPainter>
-#include <QDebug>
 #include <QMouseEvent>
-#include <QThread>
 
 void MainWindow::window_size()
 {
